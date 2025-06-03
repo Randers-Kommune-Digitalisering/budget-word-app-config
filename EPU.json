@@ -44,8 +44,8 @@
         "budgetopfølgning":[
             {  
                 "navn":"ct1",
-                "kortnavn":"skatanlæg",
-                "placering":"Bevillingsansøgninger",
+                "kortnavn":"anlæg",
+                "placering":"Anlæg",
                 "placeringStyle":"Heading3",
                 "placeringOmkringAfsnit":"Efter",
                 "nytAfsnit":false,
