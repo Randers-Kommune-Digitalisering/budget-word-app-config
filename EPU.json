@@ -19,13 +19,11 @@
                         ["Flodbyen","7300020950"],
                         ["Sekretariat og Bæredygtighed","7300020954"],
                         ["Plan, By og Natur","7300020958"],
-                        ["I alt","7300020950","7300020954","7300020958"]
                     ],
                     "jordforsyning":[
                         ["Grundsalg","7300020VJV10.0023"],
                         ["Jordkøb","7300020VJV15.0023"],
-                        ["Byggemodning","7300020VJV20.0023"],
-                        ["I alt","7300020VJV10.0023","7300020VJV15.0023","7300020VJV20.0023"]              
+                        ["Byggemodning","7300020VJV20.0023"],        
                     ]
                 }
             ]
