@@ -55,7 +55,7 @@
                 "dataArk":0,
                 "beskrivelse": "Tabellen viser budget, bevillingsansøgninger, forventet forbrug og årets resultat for anlæg under Erhvervs- og planudvalget",
                 "kolonner":[
-                    "Skattefinansierede anlæg (mio. kr.)",	
+                    "Anlæg (mio. kr.)",	
                     "Oprindeligt budget",	
                     "Korrigeret budget ekskl. overførsler",	
                     "Bevillings-ansøgninger",	
