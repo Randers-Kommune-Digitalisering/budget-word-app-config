@@ -67,7 +67,8 @@
                 ],
                 "rækker":[
                     ["Skattefinansierede anlæg","7300020S.0023"],
-                    ["Jordforsyning","7300020V.0023"]  
+                    ["Jordforsyning","7300020V.0023"],
+                    ["I alt","7300020S.0023","7300020V.0023"]
                 ]
             }
         ]
