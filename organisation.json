@@ -1,7 +1,19 @@
 [
     {
         "udvalg":"Social- og arbejdsmarkedsudvalget",
-        "forkortelse":"SAU2629"        
+        "forkortelse":"SAU2629",
+         "dokumenter":[ 
+            {
+                "navn":"Budgetopfølgning",
+                "bevillingsområde":[ 
+                    {
+                        "navn": "Tilbud til unge og voksne med særlige behov"
+                    },
+                    {
+                        "navn":"Beskæftigelse, integration og ydelser" 
+                    }
+                ]
+            }
     },
     {
         "udvalg":"Børne- og familieudvalget",
@@ -2410,5 +2422,6 @@
         ]
     }
 ]
+
 
 
