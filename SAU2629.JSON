@@ -1,1 +1,95 @@
-
+{
+    "udvalg":"Social- og arbejdsmarkedsudvalget",
+    "forkortelse":"SAU2629",
+    "bevillingsområde": [   
+        {
+            "navn":"Tilbud til unge og voksne med særlige behov",
+            "drift":[
+                {
+                    "servicerammen":[
+                        ["Psykiatri og Socialt Udsatte","7300020ADI30.0023"],
+                        ["Handicap","7300020ADI35.0023"],
+                        ["Autisme, senhjerneskade og læring","7300020ADI40.0023"]  
+                    ],
+                    "projekter":[
+                        ["projekter","DI30A4","DI35A4","DI40A4"]       
+                    ],
+                    "indkomstoverførsler":[
+                        ["Handicap","7300020BDI35.0023"]
+                    ],
+                    "ældreboliger":[
+                        ["Handicap","7300020GDI35.0023"]
+                    ],
+                    "centralerefusion":[
+                        ["Psykiatri og Socialt Udsatte","7300020DDI30.0023"],
+                        ["Handicap","7300020DDI35.0023"]  
+                    ]
+                }  
+            ],
+            "anlæg":[
+                {
+                    "skattefinansierede":[
+                        ["Skattefinansierede anlæg","7300020SD.0023"]
+                    ]
+                }
+            ]
+        },        
+        {   
+            "navn":"Beskæftigelse, integration og ydelser",
+            "drift":[
+                {
+                    "servicerammen":[
+                        ["Integration - tilbud, tilskud og ydelser","7300020ACF35.0023"],
+                        ["Job og borger - vejledning og tilbud","7300020ACF40.0023"],
+                        ["Unge - vejledning og tilbud","7300020ACF42.0023"],
+                        ["Øvrige indsatser og ydelser","7300020ACF45.0023"]
+                    ],
+                    "projekter":[
+                        ["projekter","..."]       
+                    ],
+                    "indkomstoverførsler":[
+                        ["Arbejdsløshedsdagpenge","7300020BCF05.0023"],
+                        ["Kontanthjælp og ledighedsydelse","7300020BCF10.0023"],
+                        ["Sygedagpenge og jobafklaring","7300020BCF15.0023"],
+                        ["Ressourceforløb","7300020BCF20.0023"],
+                        ["Fleksjob","7300020BCF25.0023"],
+                        ["Førtidspensioner","7300020BCF30.0023"],
+                        ["Seniorpension","7300020BCF33.0023"],
+                        ["Integration - tilbud, tilskud og ydelser","7300020BCF35.0023"],
+                        ["Job og borger - vejledning og tilbud","7300020BCF40.0023"],
+                        ["Øvrige indsatser og ydelser","7300020BCF45.0023"],
+                        ["Boligydelse og boligsikring","7300020BCF50.0023"]
+                    ]
+                }  
+            ]
+        }
+    ],
+    "bevillingsansøgninger":[
+        "Servicerammen",
+        "Indkomstoverførsler",
+        "Ældreboliger",
+        "Centrale refusionsordninger mv.",
+        "Skattefinansierede anlæg",
+        "Ældreboliger - anlæg"
+    ], 
+    "fakta":[
+        "Botilbud til voksne",
+        "Mestringsvejledning i eget hjem",
+        "Herberg/forsorgshjem",
+        "",
+        "Misbrugsbehandling stof",
+        "Misbrugsbehandling alkohol",
+        "",
+        "Børn og unge i døgntilbud",
+        "Børn og unge i forebyggende tilbud",
+        "",
+        "Antal helårspersoner (B2025)",
+        "Antal personer i kontakt med jobcenteret (2023)",
+        "Antal virksomhedsbesøg (2023)",
+        "Beskæftigelsesområdets andel af driftsbudget i Randers Kommune (2025)"
+    ],
+    "politikker":[
+        "Politik for borgere med særlige behov",
+        "Beskæftigelsespolitikken"
+    ]
+}
