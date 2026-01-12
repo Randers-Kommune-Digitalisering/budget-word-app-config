@@ -1,5 +1,9 @@
 [
     {
+        "udvalg":"Social- og arbejdsmarkedsudvalget",
+        "forkortelse":"SAU2629"        
+    },
+    {
         "udvalg":"Børne- og familieudvalget",
         "forkortelse":"BFU",
         "dokumenter":[ 
@@ -2406,4 +2410,5 @@
         ]
     }
 ]
+
 
