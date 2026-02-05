@@ -1,5 +1,19 @@
 [
     {
+        "udvalg":"Erhvervs- og planudvalget",
+        "forkortelse":"EPU2629",
+         "dokumenter":[ 
+            {
+                "navn":"Budgetopfølgning",
+                "bevillingsområde":[ 
+                    {
+                        "navn": "Erhverv og plan"
+                    }
+                ]
+            }
+         ]
+    },
+    {
         "udvalg":"Social- og arbejdsmarkedsudvalget",
         "forkortelse":"SAU2629",
          "dokumenter":[ 
