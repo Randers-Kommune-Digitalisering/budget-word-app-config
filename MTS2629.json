@@ -1,0 +1,38 @@
+{
+    "udvalg":"Miljø- og teknikudvalget, skattefinansieret",
+    "forkortelse":"MTS",
+    "bevillingsområde": [   
+        {
+            "navn":"Miljø og teknik, skattefinansieret",
+            "drift":[
+                {
+                    "servicerammen":[
+                        ["Natur, Miljø og Formidling","7300020AEJ10.0023"],
+                        ["Mobilitet og Infrastruktur","7300020AEJ20.0023"],
+                        ["Ejendomsservice","7300020AEJ15.0023"],
+                        ["Driftsafdeling","7300020AEJ25.0023"]
+                    ],
+                    "projekter":[
+                        ["Projekter","EJ10A4"]
+                    ]
+                }  
+            ],
+            "anlæg":[
+                {
+                    "skattefinansierede":[
+                        ["Natur, Miljø og Formidling","7300020SEJ10.0023"],
+                        ["Mobilitet og Infrastruktur","7300020SEJ20.0023"],
+                        ["Ejendomsservice","7300020SEJ15.0023"]
+
+                    ]
+                }
+            ]
+        }
+    ],
+    "bevillingsansøgninger":[
+        "Servicerammen",
+        "Skattefinansierede anlæg"       
+    ],
+    "fakta":["Offentlig vej","Antal årlige miljøtilsyn","Offentlige vandløb","Passagerer på færgerne 2023","Årlige naturgenopretningsprojekter","Miljøreguleret virksomheder","Miljøreguleret landbrug"],
+    "politikker":["Klima-, natur- og miljøpolitik"]
+}

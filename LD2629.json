@@ -1,0 +1,32 @@
+{
+    "udvalg":"Landdistriktsudvalget",
+    "forkortelse":"LD629",
+    "bevillingsområde": [   
+        {
+            "navn":"Landdistrikt",
+            "drift":[
+                {
+                    "servicerammen":[
+                        ["Landdistrikt","7300020AHQ10.0023"],
+                        ["Byfornyelse","7300020AHQ15.0023"],
+                        ["Grøn Trepart","7300020AHQ20.0023"]
+                    ]
+                }  
+            ],
+            "anlæg":[
+                {
+                    "skattefinansierede":[
+                        ["Byfornyelse","7300020SHQ15.0023"],
+                        ["Grøn Trepart","7300020SHQ20.0023"]
+                    ]
+                }
+            ]
+        }
+    ],
+    "bevillingsansøgninger":[
+        "Servicerammen",
+        "Skattefinansierede anlæg"
+    ], 
+    "fakta":["Borgere uden for Randers by 2023:","Ansøgninger til Landsbypuljen 2024:","Midler bevilget fra Landsbypuljen 2022:","Midler bevilget fr Landdistriktspuljen 2022:","Foreninger tildelt driftstilskud 2023:"],
+    "politikker":["Landdistriktspolitik"]
+}
