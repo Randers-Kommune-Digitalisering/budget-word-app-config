@@ -1,5 +1,28 @@
 [
     {
+        "udvalg":"Børn- og Skoleudvalget",
+        "forkortelse":"BSU2629",
+         "dokumenter":[ 
+            {
+                "navn":"Budgetopfølgning",
+                "bevillingsområde":[ 
+                    {
+                        "navn": "Skole"
+                    },
+                    {
+                        "navn": "Pædagogisk Psykologisk Rådgivning"
+                    },
+                    {
+                        "navn": "Børn"
+                    },
+                    {
+                        "navn": "Familie"
+                    }
+                ]
+            }
+         ]
+    },
+    {
         "udvalg":"Erhvervs- og planudvalget",
         "forkortelse":"EPU2629",
          "dokumenter":[ 
@@ -2246,6 +2269,9 @@
         ]
     }
 ]
+
+
+
 
 
 
