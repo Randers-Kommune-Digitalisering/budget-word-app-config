@@ -1,59 +1,5 @@
 [
     {
-        "udvalg":"Børn- og Skoleudvalget",
-        "forkortelse":"BSU2629",
-         "dokumenter":[ 
-            {
-                "navn":"Budgetopfølgning",
-                "bevillingsområde":[ 
-                    {
-                        "navn": "Skole"
-                    },
-                    {
-                        "navn": "Pædagogisk Psykologisk Rådgivning"
-                    },
-                    {
-                        "navn": "Børn"
-                    },
-                    {
-                        "navn": "Familie"
-                    }
-                ]
-            }
-         ]
-    },
-    {
-        "udvalg":"Erhvervs- og planudvalget",
-        "forkortelse":"EPU2629",
-         "dokumenter":[ 
-            {
-                "navn":"Budgetopfølgning",
-                "bevillingsområde":[ 
-                    {
-                        "navn": "Erhverv og plan"
-                    }
-                ]
-            }
-         ]
-    },
-    {
-        "udvalg":"Social- og arbejdsmarkedsudvalget",
-        "forkortelse":"SAU2629",
-         "dokumenter":[ 
-            {
-                "navn":"Budgetopfølgning",
-                "bevillingsområde":[ 
-                    {
-                        "navn": "Tilbud til unge og voksne med særlige behov"
-                    },
-                    {
-                        "navn":"Beskæftigelse, integration og ydelser" 
-                    }
-                ]
-            }
-         ]
-    },
-    {
         "udvalg":"Børne- og familieudvalget",
         "forkortelse":"BFU",
         "dokumenter":[ 
@@ -1989,6 +1935,197 @@
         ]
     },
     {
+        "udvalg":"Erhvervs- og planudvalget",
+        "forkortelse":"EPU",
+        "dokumenter":[ 
+            {
+                "navn":"Budgetopfølgning",
+                "sektioner":[
+                    [0,1,2,3]
+                ],
+                "undersektioner":[
+                    {
+                        "bevilling":[
+                            [0]
+                        ],
+                        "anlæg":[
+                            [0,3]
+                        ],
+                        "bevillingsansøgninger":[
+                            [0,6,9]
+                        ]
+                    }
+                ],
+                "bevillingsområde":[
+                    {
+                        "navn":"Erhverv og plan",
+                        "tabeller":[
+                            {
+                                "nr":0,
+                                "navn":"Servicerammen",
+                                "beskrivelse":"Tabellen viser budget, bevillingsansøgninger, forventet forbrug og årets resultat for service, bevillingsområde Erhverv og plan.",
+                                "note":"Note: Minus angiver et mindreforbrug/overskud i Årets forventede resultat og overførsler. Plus angiver et merforbrug/underskud.",
+                                "projekter":0,
+                                "typeKolonner":0,
+                                "rækker":[
+                                    ["Erhvervsudvikling","7300020AJU10.0023"],
+                                    ["Turisme","7300020AJU15.0023"],
+                                    ["Byudvikling","7300020AJU20.0023"]                                    
+                                ]                                     
+                            }
+                        ] 
+                    }
+                ], 
+                "anlæg":[
+                    {
+                        "nr":0,
+                        "navn":"Anlæg",
+                        "beskrivelse":"Tabellen viser budget, bevillingsansøgninger, forventet forbrug og årets resultat for anlæg.",
+                        "note":"Note: Minus angiver et mindreforbrug/overskud i Årets forventede resultat og overførsler. Plus angiver et merforbrug/underskud.",
+                        "projekter":0,
+                        "typeKolonner":6,
+                        "rækker":[
+                            ["Skattefinansierede anlæg","7300020SJ.0023"],
+                            ["Jordforsyning","7300020VJ.0023"]                            
+                        ]
+                    }
+                ],
+                "bevillingsansøgninger":[
+                    {
+                        "nr":0,
+                        "navn":"Bevillingsansøgninger",
+                        "beskrivelse":"Tabellen viser bevillingsansøgninger i budgetåret og overslagsåret.",
+                        "note":"Note: Minus angiver indtægter, plus angiver udgifter.",
+                        "projekter":0,
+                        "typeKolonner":7,
+                        "rækker":[
+                            "Servicerammen",
+                            "Skattefinansierede anlæg",
+                            "Jordforsyning"
+                        ]
+                    }
+                ],
+                "customTabeller":[
+                    {  
+                        "navn":"ct1",
+                        "placering":"Bevillingsansøgninger",
+                        "placeringOmkringAfsnit":"Before",
+                        "note":"Note: Minus angiver et mindreforbrug/overskud i Årets forventede resultat og overførsler. Plus angiver et merforbrug/underskud.",
+                        "tabelnr":3,
+                        "dataArk":4,
+                        "indledendeTekst": "Tabellen viser budget, bevillingsansøgninger, forventet forbrug og årets resultat for skattefinansierede anlæg under Erhvervs- og planudvalget",
+                        "kolonner":[
+                            "Skattefinansierede anlæg (mio. kr.)",	
+                            "Oprindeligt budget",	
+                            "Korrigeret budget ekskl. overførsler",	
+                            "Bevillings-ansøgninger",	
+                            "Korrigeret budget ekskl. overførsler inkl. bevillingsans",	
+                            "Forventet forbrug",	
+                            "Årets forventede resultat ekskl. overførsler",	
+                            "Overførsler",
+                            "Årets forventede resultat inkl. overførsler"
+                        ],
+                        "rækker":[
+                            ["Flodbyen","7300020950"],
+                            ["Sekretariat og Bæredygtighed","7300020954"],
+                            ["Plan, By og Natur","7300020958"],
+                            ["I alt","7300020950","7300020954","7300020958"]
+                        ]
+                    },
+                    {  
+                        "navn":"ct2",
+                        "placering":"Bevillingsansøgninger", 
+                        "placeringOmkringAfsnit":"Before",
+                        "note":"Note: Minus angiver et mindreforbrug/overskud i Årets forventede resultat og overførsler. Plus angiver et merforbrug/underskud.",
+                        "tabelnr":4,
+                        "indledendeTekst": "Tabellen viser budget, bevillingsansøgninger, forventet forbrug og årets resultat for jordforsyning under Erhvervs- og planudvalget",
+                        "kolonner":[
+                            "Jordforsyning (mio. kr.)",	
+                            "Oprindeligt budget",	
+                            "Korrigeret budget ekskl. overførsler",	
+                            "Bevillings-ansøgninger",	
+                            "Korrigeret budget ekskl. overførsler inkl. bevillingsans",	
+                            "Forventet forbrug",	
+                            "Årets forventede resultat ekskl. overførsler",	
+                            "Overførsler",
+                            "Årets forventede resultat inkl. overførsler"
+                        ],
+                        "rækker":[
+                            ["Grundsalg","7300020VJV10.0023"],
+                            ["Jordkøb","7300020VJV15.0023"],
+                            ["Byggemodning","7300020VJV20.0023"],
+                            ["I alt","7300020VJV10.0023","7300020VJV15.0023","7300020VJV20.0023"]
+                        ]
+                    }
+                ]              
+            },
+            {
+                "navn":"Budgetbemærkninger del 1",
+                "bevillingsområde":[   
+                    {
+                        "navn":"Erhverv og plan",
+                        "tabeller":[
+                            {
+                                "nr":0,
+                                "navn":"Fakta og politikker",
+                                "faktaOverskrift":"Fakta",
+                                "fakta":["Arbejdspladser i kommunen (2023):","Virksomheder i kommunen (2023):","Konkurser i kommunen (2023):"],
+                                "politikker":[]
+                            },{
+                                "nr":1,
+                                "navn":"Driftsbudget",
+                                "beskrivelse":"Tabellen viser budgettet på drift fra {{fra}}-{{til}} på bevillingsområdet opdelt på servicerammen og uden for servicerammen.",
+                                "note":"",
+                                "k1r1":"Erhverv og plan (mio. kr.)",
+                                "rækkerServicerammen":[
+                                    "Erhvervsudvikling",
+                                    "Turisme",
+                                    "Byudvikling"
+                                ],                                
+                                "rækkerUdenForServicerammen":[
+                                    "[Indsæt/slet rækker efter behov]"
+                                ]   
+                            },{
+                                "nr":2,
+                                "navn":"Anlægsbudget",
+                                "beskrivelse":"Tabellen viser budgettet på anlæg fra {{fra}}-{{til}} opdelt på anlægsprojekter.",
+                                "note":"Note: Tabellen indeholder kun de anlægsprojekter, som har budget i {{fra}}-{{til}}. Der kan således være igangværende anlægsprojekter, som ikke er nævnt her.",
+                                "k1r1":"Anlægsprojekter (mio. kr.)",
+                                "rækker":[
+                                    "[Indsæt/slet rækker efter behov - eller slet afsnittet helt]"
+                                ]   
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "navn":"Budgetbemærkninger del 2",
+                "bevillingsområde":[   
+                    {
+                        "navn":"Erhverv og plan",
+                        "tabeller":[{
+                                "nr":0,
+                                "navn":"Driftsbudget",
+                                "beskrivelse":"Tabellen viser bevillingsområdets budget på drift for {{fra}} fordelt på udgifter og indtægter.",
+                                "note":"",
+                                "k1r1":"Erhverv og plan (mio. kr.)",
+                                "rækkerServicerammen":[
+                                    "Erhvervsudvikling",
+                                    "Turisme",
+                                    "Byudvikling"
+                                ],                                
+                                "rækkerUdenForServicerammen":[
+                                    "[Tilføj/slet rækker efter behov]"
+                                ]   
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "udvalg":"Økonomiudvalget",
         "forkortelse":"ØU",       
         "dokumenter":[ 
@@ -2269,9 +2406,3 @@
         ]
     }
 ]
-
-
-
-
-
-
