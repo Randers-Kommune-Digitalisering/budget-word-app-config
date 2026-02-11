@@ -3,43 +3,6 @@
     "forkortelse":"BSU2629",
     "bevillingsområde": [   
         {
-            "navn":"Skole",
-            "drift":[
-                {
-                    "servicerammen":[
-                        ["Fællesudgifter - Skole","7300020AIR10.0023"],
-                        ["Folkeskoler og fritidstilbud","7300020AIR15.0023"],
-                        ["Befordring af elever","7300020AIR20.0023"],
-                        ["Bidrag til efterskoler","7300020AIR25.0023"],
-                        ["Specialskoler og -fritidstilbud","7300020AIR35.0023"],
-                        ["Ungdomsskole","7300020AIR40.0023"],
-                        ["Bidrag til privatskoler","7300020AIR50.0023"]
-                    ],
-                    "projekter":[
-                        ["Projekter","IR15A4"]
-                    ]
-                }  
-            ],
-            "anlæg":[
-                {
-                    "skattefinansierede":[
-                        ["Skattefinansierede anlæg","7300020SIR.0023"]
-                    ]
-                }
-            ]
-        },        
-        {
-            "navn":"Pædagogisk Psykologisk Rådgivning",
-            "drift":[
-                {
-                    "servicerammen":[
-                        ["PPR (Pædagogisk Psykologisk Rådgivning)","7300020AIS10.0023"],
-                        ["Forebyggende foranstaltninger børn, unge","7300020AIS20.0023"]
-                    ]
-                }  
-            ]
-        }, 
-        {
             "navn":"Børn",
             "drift":[
                 {
@@ -86,6 +49,43 @@
                         ["Opholdssteder, sikrede samt døgninst.","7300020DBE15.0023"]
                     ]
                 }
+            ]
+        },
+        {
+            "navn":"Skole",
+            "drift":[
+                {
+                    "servicerammen":[
+                        ["Fællesudgifter - Skole","7300020AIR10.0023"],
+                        ["Folkeskoler og fritidstilbud","7300020AIR15.0023"],
+                        ["Befordring af elever","7300020AIR20.0023"],
+                        ["Bidrag til efterskoler","7300020AIR25.0023"],
+                        ["Specialskoler og -fritidstilbud","7300020AIR35.0023"],
+                        ["Ungdomsskole","7300020AIR40.0023"],
+                        ["Bidrag til privatskoler","7300020AIR50.0023"]
+                    ],
+                    "projekter":[
+                        ["Projekter","IR15A4"]
+                    ]
+                }  
+            ],
+            "anlæg":[
+                {
+                    "skattefinansierede":[
+                        ["Skattefinansierede anlæg","7300020SIR.0023"]
+                    ]
+                }
+            ]
+        },        
+        {
+            "navn":"Pædagogisk Psykologisk Rådgivning",
+            "drift":[
+                {
+                    "servicerammen":[
+                        ["PPR (Pædagogisk Psykologisk Rådgivning)","7300020AIS10.0023"],
+                        ["Forebyggende foranstaltninger børn, unge","7300020AIS20.0023"]
+                    ]
+                }  
             ]
         }
     ],
