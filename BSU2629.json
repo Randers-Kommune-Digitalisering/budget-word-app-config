@@ -1,0 +1,100 @@
+{
+    "udvalg":"Børn- og Skoleudvalget",
+    "forkortelse":"BSU2629",
+    "bevillingsområde": [   
+        {
+            "navn":"Børn",
+            "drift":[
+                {
+                    "servicerammen":[
+                        ["Fælles formål - Børn","7300020ABD10.0023"],
+                        ["Dagpleje","7300020ABD15.0023"],
+                        ["Dagtilbud","7300020ABD20.0023"],
+                        ["Fritidstilbud og klubber","7300020ABD22.0023"],
+                        ["Tilskud til private institutioner","7300020ABD25.0023"],
+                        ["Særlige dagtilbud","7300020ABD30.0023"]
+                    ],
+                    "projekter":[
+                        ["Projekter","BD20A4"]    
+                    ]
+                }  
+            ],
+            "anlæg":[
+                {
+                    "skattefinansierede":[
+                        ["Skattefinansierede anlæg","7300020SBD.0023"]
+                    ]
+                }
+            ]
+        },
+        {
+            "navn":"Familie",
+            "drift":[
+                {
+                    "servicerammen":    [
+                        ["Plejefamilier","7300020ABE10.0023"],
+                        ["Opholdssteder, sikrede samt døgninst.","7300020ABE15.0023"],
+                        ["Forebyggende foranstaltninger og indsats","7300020ABE20.0023"],
+                        ["Kvindekrisecentre","7300020ABE25.0023"],
+                        ["Myndighedscentret (adm.)","7300020ABE30.0023"]
+                    ],
+                    "projekter":[
+                        ["Projekter","BE25A4"]
+                    ],
+                    "indkomstoverførsler":[
+                        ["Forebyggende foranstaltninger og indsats","7300020BBE20.0023"]
+                    ],
+                    "centralerefusion":[
+                        ["Plejefamilier","7300020DBE10.0023"],
+                        ["Opholdssteder, sikrede samt døgninst.","7300020DBE15.0023"]
+                    ]
+                }
+            ]
+        },
+        {
+            "navn":"Skole",
+            "drift":[
+                {
+                    "servicerammen":[
+                        ["Fællesudgifter - Skole","7300020AIR10.0023"],
+                        ["Folkeskoler og fritidstilbud","7300020AIR15.0023"],
+                        ["Befordring af elever","7300020AIR20.0023"],
+                        ["Bidrag til efterskoler","7300020AIR25.0023"],
+                        ["Specialskoler og -fritidstilbud","7300020AIR35.0023"],
+                        ["Ungdomsskole","7300020AIR40.0023"],
+                        ["Bidrag til privatskoler","7300020AIR50.0023"]
+                    ],
+                    "projekter":[
+                        ["Projekter","IR15A4"]
+                    ]
+                }  
+            ],
+            "anlæg":[
+                {
+                    "skattefinansierede":[
+                        ["Skattefinansierede anlæg","7300020SIR.0023"]
+                    ]
+                }
+            ]
+        },        
+        {
+            "navn":"Pædagogisk Psykologisk Rådgivning",
+            "drift":[
+                {
+                    "servicerammen":[
+                        ["PPR (Pædagogisk Psykologisk Rådgivning)","7300020AIS10.0023"],
+                        ["Forebyggende foranstaltninger børn, unge","7300020AIS20.0023"]
+                    ]
+                }  
+            ]
+        }
+    ],
+    "bevillingsansøgninger":[
+        "Servicerammen",
+        "Indkomstoverførsler",
+        "Centrale refusionsordninger mv.",
+        "Skattefinansierede anlæg"
+    ], 
+    "fakta":["Antal folkeskoler:", "Antal specialklasser:","Antal almenklasser:","Antal specialklasser:","Elever i folkeskolen","Antal børn i SFO","Elever i specialklasser:","Elever i specialskoler:"],
+    "politikker":["Uddannelsespolitik","Sammenhængende børne- og ungepolitik"]
+}
